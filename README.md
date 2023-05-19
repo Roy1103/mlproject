@@ -1,1 +1,1 @@
-## My Student Performance Machine Leaning Project
+## My Student Performance Machine Learning Project
